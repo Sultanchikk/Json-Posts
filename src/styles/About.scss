@@ -1,0 +1,27 @@
+.about-wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  .title {
+    display: flex;
+    gap: 500px;
+    align-items: center;
+    h2 {
+      padding-left: 30px;
+      font-size: 38px;
+    }
+  }
+  .link {
+    padding-left: 30px;
+    font-size: 18px;
+  }
+  .about-description {
+    max-width: 1000px;
+    padding: 30px;
+    font-weight: 500;
+    font-size: 20px;
+    color: rgb(92, 92, 92);
+    strong {
+      color: black;
+    }
+  }
+}

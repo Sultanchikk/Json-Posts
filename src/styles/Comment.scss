@@ -1,0 +1,15 @@
+.comment {
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  background-color: rgb(253, 253, 253);
+  padding: 5px;
+  max-width: 500px;
+  transition: all 2s ease;
+  margin-bottom: 10px;
+  p {
+    font-size: 15px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+}
