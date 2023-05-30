@@ -3,7 +3,7 @@
   margin: 0 auto;
   .title {
     display: flex;
-    gap: 500px;
+    justify-content: space-between;
     align-items: center;
     h2 {
       padding-left: 30px;
